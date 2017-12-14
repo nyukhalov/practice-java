@@ -6,7 +6,7 @@ Practicing programming in Java
 Data structures:
 
 - [ ] Dynamic array
-- [ ] Linked list
+- [x] Linked list
 - [ ] Stack
 - [ ] Queue
 - [ ] Circular queue
